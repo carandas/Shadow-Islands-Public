@@ -1,2 +1,2 @@
-# Shadow-Islands-Public
+# Shadow Islands Public
 Релизы и другая полезная информация по Shadow Islands
